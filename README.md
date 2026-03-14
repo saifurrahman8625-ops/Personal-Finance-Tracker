@@ -39,3 +39,4 @@ Python
 PySide6 (Qt GUI Framework)
 MySQL
 mysql-connector-python
+
