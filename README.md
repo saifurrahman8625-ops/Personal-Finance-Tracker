@@ -40,3 +40,4 @@ PySide6 (Qt GUI Framework)
 MySQL
 mysql-connector-python
 
+![App Screenshot](images/screenshot(348).png)
